@@ -7,3 +7,4 @@ test/bower_components
 .idea
 app/scritps/.maps
 app/scritps/.maps/*.map
+app/scripts/.maps/main.js.map
